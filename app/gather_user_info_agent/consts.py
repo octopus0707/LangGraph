@@ -1,0 +1,5 @@
+RETRIEVE_NODE = "retrieve"
+GRADE_DOCUMENTS_NODE = "grade_documents"
+GENERATE_NODE = "generate"
+TRANSFORM_QUERY_NODE = "transform_query"
+WEB_SEARCH_NODE = "web_search_node"
